@@ -1,0 +1,21 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "yun-cham",
+                    "appId": "1:209644485130:android:7417a5aed2c48f450a3df3",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "yun-cham",
+                    "configurations": {
+                        "android": "1:209644485130:android:7417a5aed2c48f450a3df3"
+                    }
+                }
+            }
+        }
+    }
+}
